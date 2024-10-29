@@ -1,0 +1,22 @@
+.imglogo{
+    width: 10vw;
+    height: 15vh;
+}
+.carousel-inner{
+    width: 99vw;
+    height: 60vh;
+}
+.tamanhoCarrossel{
+    height: 60vh;
+}
+.cards{
+    margin-top: 0.5vh;
+   display: flex;
+   justify-content: space-around;
+}
+.texto{
+    text-align: center;
+}
+.imgCard{
+    height: 30vh;
+}
